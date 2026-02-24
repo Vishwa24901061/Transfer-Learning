@@ -97,21 +97,20 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-
-<img width="675" height="260" alt="image" src="https://github.com/user-attachments/assets/c3830e3f-fbb3-4828-94cc-124ca82f2bd8" />
-<img width="953" height="731" alt="image" src="https://github.com/user-attachments/assets/3b234d8b-d2bc-4b28-ad9f-94b5e6a689fc" />
+<img width="661" height="225" alt="Screenshot 2026-02-24 200803" src="https://github.com/user-attachments/assets/c746b321-272c-4fad-a1b8-17bcb696523c" />
+<img width="967" height="743" alt="Screenshot 2026-02-24 200750" src="https://github.com/user-attachments/assets/0b5bedee-87e0-479b-8072-04052993b969" />
 
 ### Classification Report
 
-<img width="687" height="247" alt="image" src="https://github.com/user-attachments/assets/e33035d9-877e-4321-9af0-cb8d58cbb8a2" />
+<img width="603" height="227" alt="Screenshot 2026-02-24 201144" src="https://github.com/user-attachments/assets/88915b94-8459-4a2e-b39a-e3a370d2bbcd" />
 
 ### Confusion Matrix
+<img width="942" height="749" alt="Screenshot 2026-02-24 200904" src="https://github.com/user-attachments/assets/9bb5f8cf-8495-457f-86f7-f673edb709f7" />
 
-<img width="874" height="756" alt="image" src="https://github.com/user-attachments/assets/e264ea60-4701-4e20-a6a9-48590557c31b" />
 
 ### New Sample Prediction
-<img width="549" height="509" alt="image" src="https://github.com/user-attachments/assets/236fb8b4-b617-4907-9732-5fc411028028" />
-<img width="542" height="510" alt="image" src="https://github.com/user-attachments/assets/1efb90fa-a3a7-46a1-b01b-c874bc308a3d" />
+<img width="537" height="494" alt="Screenshot 2026-02-24 200933" src="https://github.com/user-attachments/assets/adb4e4ee-f850-4c33-90b3-cf9e7cce68a5" />
+<img width="551" height="514" alt="Screenshot 2026-02-24 200937" src="https://github.com/user-attachments/assets/da1c17ae-823f-443c-9bcb-d3672e06d8c4" />
 
 ## RESULT
 The VGG-19 model was successfully trained and optimized to classify defected and non-defected capacitors.
